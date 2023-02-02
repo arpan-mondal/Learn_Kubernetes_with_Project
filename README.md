@@ -55,4 +55,4 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
     
 - Kubernetes Notes in Detail
     
-    [Kubernetes in Detail](https://www.notion.so/Kubernetes-in-Detail-cacca2743a8d497bbfed811fc95fac9e)
+    [Kubernetes Documentation](https://kubernetes.io/docs/home/)
