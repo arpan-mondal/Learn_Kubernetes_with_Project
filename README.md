@@ -251,7 +251,7 @@ kubectl delete pods <pod_name>
 ```
 - Now try to delete any deployment pod, and recheck to see. Here you able to see the deployment pod once again as this process is Auto-Healing. 
 
-# Managed network and Services with Host IP allocation through Proxy on AWS EC2 and Route53.
+# Managed network and Services with Host IP allocation.
 
 - To do this you face a problem follow to this steps to understand:
 
