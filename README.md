@@ -97,3 +97,7 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
  sudo snap install kubectl
  ```
  
+ # Step 2 : Setup and Managed Docker Containers for Django and React Application into Kubernetes Pods
+ 
+ - Create a SSH for the instance which you have created in Amazon EC2
+ - 
