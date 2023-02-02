@@ -103,7 +103,6 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
  - Clone the django todo app
  ```
     git clone 
-    
  ```
  - Go to the docker file directory and then type 
  ```
@@ -119,13 +118,14 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
  - To check it is working or not. Copy the IP address from Amaxon EC2, and type the command :
  ```
  curl -L http://<ip_address>
+ ```
  
  - Now, we will create a Kubernetes Pods : 
  - Now we will create a new folder. I have used k8s
+
  ```
  mkdir k8s
  ```
- 
  ```
  cd k8s/
  ```
@@ -134,6 +134,7 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
  ```
  - Now we will write a pod file.
  - Generally when we create file we pull image form Docker Hub. 
+ 
  ```
  docker push <dockerhub_id>/<image_name>
  ```
