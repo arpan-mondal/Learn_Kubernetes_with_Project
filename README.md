@@ -293,14 +293,17 @@ spec:
  ```
  kubectl get svc
  ```
+    
  - You will not get the external IP therefore need to go to the minikube service 
+ 
  ```
  minikube service todo-service --url 
  ```
+    
  - Now
  ```
  curl -L <http_link>
- 
+ ```
  - Now we will give the IP name 
  - Here we will get all the IPs
  ```
