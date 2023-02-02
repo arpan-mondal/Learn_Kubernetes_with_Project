@@ -63,8 +63,37 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
 # Project Description - 
   Build Kubernetes Cluster on AWS from Scratch with Minukube , Setup and Managed Docker Containers for Django and React Application into Kubernetes Pods, Managed Deployment, Replication, Auto Healing, Auto Scaling for Kubernetes Cluster, Managed network and Services with Host IP allocation through Proxy on AWS EC2 and Route53.
   
- - Install Minukube
+ # Step 1 :   Build Kubernetes Cluster on AWS from Scratch with Minukube
+ -  Head to AWS EC2
+ -  Launch an Instance and Create a Server Name 
+    ```
+    'Create a Server Name of your wish' I have used 'kubernetes-tut' as a server name 
+    ```
+ -  Select the Applications and OS Images(Amazon Machine Image). Take any OS which you prefer. I have used 'ubuntu'
+    
+ -   Now change the instance type to t2.medium coz we require 2 CPU for the processing.(This is not included in Free Tier)
+    
+ - Then add a Key Pair 
+    ```
+    TWS-Key
+    ```
+  - Finally, Click on Create Instance 
+
+  - Select the instance and Click on Connect 
+  - Copy the SSH Client
+  - Head to your Terminal and type Sudo and Paste the Link 
+  - Instal Docker 
+  ```
+  https://docs.docker.com/get-docker/
+  ```
+  - Install Minukube
  ```
  https://minikube.sigs.k8s.io/docs/start/
  ```
- -  
+ - After installing type --> sudo usermod -aG docker $USER && newgrp docker 
+ - Then type -->  minikube start --driver=docker 
+ - Now to communicate with the master and the node you need to install the kubctl tool 
+ ```
+ sudo snap install kubectl
+ ```
+ 
