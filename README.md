@@ -471,6 +471,6 @@ spec:
  - Reduce Downtime by 75% on Production Environments. 
  - Coz, If you delete the pod also, It will be Up Again. Therefore you have reduced downtime. 25% were being kept for scheduled maintainance in website down. 
  
- -Congratulation and  Happy Coding!!!
+ -Congratulation🥳🥳🥳 and  Happy Coding🪷👩‍💻🧑‍💻!!!
  
  
