@@ -17,10 +17,10 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
     
 - Architecture
     
+    ![image](https://user-images.githubusercontent.com/66848339/216410744-7014a844-fbc0-4e6c-928a-bed694893667.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26cb95e0-2fbe-4010-b145-f145fc249ef4/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/877b5694-9a17-4c6f-9784-86de123bea97/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/66848339/216410817-e0ad9ad3-08c5-4d3b-93a6-fbc66ebbcec9.png)
+
     
 - Node vs Pod
     
