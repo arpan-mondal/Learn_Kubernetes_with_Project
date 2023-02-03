@@ -211,9 +211,9 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
 # Kubernetes Project : 
 # Project - Automated CI/CD Pipeline for Django and React Application.
 # Project Description - 
-  Build Kubernetes Cluster on AWS from Scratch with Minukube ; Setup and Managed Docker Containers for Django and React Application into Kubernetes Pods, Managed Deployment, Replication, Auto Healing, Auto Scaling for Kubernetes Cluster; Managed network and Services with Host IP allocation.
+  Build Kubernetes Cluster on AWS from Scratch with Minikube ; Setup and Managed Docker Containers for Django and React Application into Kubernetes Pods, Managed Deployment, Replication, Auto Healing, Auto Scaling for Kubernetes Cluster; Managed network and Services with Host IP allocation.
   
- # Step 1 :   Build Kubernetes Cluster on AWS from Scratch with Minukube
+ # Step 1 :   Build Kubernetes Cluster on AWS from Scratch with Minikube
  -  Head to AWS EC2
  -  Launch an Instance and Create a Server Name 
     ```
