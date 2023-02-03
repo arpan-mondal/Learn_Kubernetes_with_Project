@@ -207,7 +207,8 @@ In this repository you are going to learn about Kubernetes :- What is Kubernetes
     
     [Kubernetes Documentation](https://kubernetes.io/docs/home/)
     
-    
+  ![blue modern adventure youtube thumbnail](https://user-images.githubusercontent.com/66848339/216479221-c9069f3f-e448-4097-a8b7-d634299be3c2.png)
+
 # Kubernetes Project : 
 # Project - Automated CI/CD Pipeline for Django and React Application.
 # Project Description - 
