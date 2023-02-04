@@ -467,8 +467,7 @@ spec:
  ```
  curl -L <any name.com>:30005
  ```
- 
- #Achievement 
+ # Achievement 
  - Reduce Downtime by 75% on Production Environments. 
  - Coz, If you delete the pod also, It will be Up Again. Therefore you have reduced downtime. 25% were being kept for scheduled maintainance in website down. 
  
